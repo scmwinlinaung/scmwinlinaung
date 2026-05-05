@@ -48,7 +48,7 @@
 ## 📫 Connect With Me
 
 * 💼 GitHub: https://github.com/scmwinlinaung
-* 📧 Email: (your email here)
+* 📧 Email: winlinaung2813@gmail.com
 
 ---
 
