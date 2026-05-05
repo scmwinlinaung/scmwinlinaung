@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 
-* 💻 Languages: JavaScript, Python, Solidity, Java
+* 💻 Languages: JavaScript, Python, Solidity, Java, Amazon Web Service ( AWS )
 * ⚙️ Tools: Git, Node.js, REST APIs
 * 🔗 Blockchain: Web3.js, Ethers.js
 * 💳 FinTech: Payment Systems, APIs, Transaction Flows, Security
